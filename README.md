@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @alroney
+- 👋 Hi, I’m Andrew Roney
 
 - 👀 I’m interested in: Taking my skills to a professional level.
-- 🌱 I’m currently learning back-end programming.
+- 🌱 I’m currently learning full stack development.
 - 💞️ I’m looking to collaborate on large and small scale projects with team members.
 - 📫 How to reach me: By email, alroney98@outlook.com
 
